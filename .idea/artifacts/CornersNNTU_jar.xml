@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CornersNNTU:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CornersNNTU_jar</output-path>
+    <root id="archive" name="CornersNNTU.jar">
+      <element id="module-output" name="CornersNNTU" />
+    </root>
+  </artifact>
+</component>
